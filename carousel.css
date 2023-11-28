@@ -42,7 +42,10 @@ body {
   margin-left: .75rem;
 }
 /* rtl:end:ignore */
-
+#imgp1{
+  background-size:auto;
+  background-position:bottom;
+}
 
 /* Featurettes
 ------------------------- */
